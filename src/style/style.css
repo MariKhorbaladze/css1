@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+}
+
+
+globaldiv{
+
+    background-color: aqua;
+    width: 510px;
+    height: 510px;
+    margin: 5% 0% 0% 15%;
+    border: 15px solid black;
+    
+}
+h1{
+    padding: 5% 0% 0% 10%;
+    color: green 
+}
+.redblock{
+    background-color: red;
+}
+.blueblock{
+    background-color: blue;
+}
+.greenblock{
+    background-color: green;
+}

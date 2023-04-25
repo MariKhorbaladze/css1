@@ -1,0 +1,12 @@
+.navLinks{
+    list-style: none;
+   }
+   .navLinks li{
+   font-size: 24px;
+   }
+   .row{
+       display: flex;
+   }
+   .justify_between{
+       justify-content: space-between;
+   }
